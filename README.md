@@ -96,3 +96,22 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## CLI
+
+
+```bash
+nest g module auth
+```
+
+```bash
+nest g controller auth
+```
+
+```bash
+nest g service auth
+```
+
+```bash
+
+```
